@@ -1,6 +1,6 @@
 // Dados do negócio — atualizar com os valores reais.
 const CONFIG = {
-  whatsappDigits: "351961081580", // indicativo + número, sem espaços nem "+"
+  whatsappDigits: "351961087580", // indicativo + número, sem espaços nem "+"
 };
 
 document.getElementById("year").textContent = new Date().getFullYear();
